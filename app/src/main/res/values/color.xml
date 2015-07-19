@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_lighter">#E0E0E0</color>
+    <color name="grey_light">#9E9E9E</color>
+    <color name="grey_dark">#424242</color>
+
+    <color name="main">#2196F3</color>
+    <color name="main_dark">#1976D2</color>
+    <color name="accent">#F06292</color>
+
+    <color name="fab_light">#BA68C8</color>
+    <color name="fab">#AB47BC</color>
+    <color name="fab_dark">#8E24AA</color>
+
+    <color name="white">#FFF</color>
+</resources>

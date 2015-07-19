@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiBand Notify</string>
+    <string name="undo">Undo</string>
+    <string name="app_removed">%s removed from whitelist</string>
+    <string name="app_added">%s added to whitelist</string>
+    <string name="no_app">No app added…</string>
+</resources>
